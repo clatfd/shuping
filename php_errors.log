@@ -1,4 +1,0 @@
-[31-Jul-2014 02:16:58 UTC] PHP Parse error:  syntax error, unexpected 'DB' (T_STRING), expecting function (T_FUNCTION) in E:\server\nginx\html\laravel\app\database\migrations\2014_07_31_021231_create_application_table.php on line 19
-[31-Jul-2014 02:17:26 UTC] PHP Parse error:  syntax error, unexpected ';', expecting function (T_FUNCTION) in E:\server\nginx\html\laravel\app\database\migrations\2014_07_31_021231_create_application_table.php on line 18
-[31-Jul-2014 04:07:00 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Schema\Blueprint::bool() in E:\server\nginx\html\laravel\app\database\migrations\2014_07_31_040310_create_applyrecords_table.php on line 19
-[31-Jul-2014 04:07:21 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Schema\Blueprint::int() in E:\server\nginx\html\laravel\app\database\migrations\2014_07_31_040310_create_applyrecords_table.php on line 20
