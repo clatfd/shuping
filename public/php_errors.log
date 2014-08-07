@@ -1,0 +1,16 @@
+[31-Jul-2014 02:32:51 UTC] PHP Parse error:  syntax error, unexpected end of file in E:\server\nginx\html\laravel\app\routes.php on line 42
+[31-Jul-2014 02:49:25 UTC] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in E:\server\nginx\html\laravel\app\storage\views\e2328f39a0a841aeed372d0da081725d on line 23
+[31-Jul-2014 03:11:18 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in E:\server\nginx\html\laravel\app\storage\views\e2328f39a0a841aeed372d0da081725d on line 78
+[31-Jul-2014 04:25:48 UTC] PHP Parse error:  syntax error, unexpected '=' in E:\server\nginx\html\laravel\app\routes.php on line 48
+[31-Jul-2014 04:46:01 UTC] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in E:\server\nginx\html\laravel\app\routes.php on line 36
+[31-Jul-2014 04:51:43 UTC] PHP Parse error:  syntax error, unexpected '{' in E:\server\nginx\html\laravel\app\storage\views\2644c3e2862e6c5e43309186cd128d83 on line 104
+[31-Jul-2014 04:52:09 UTC] PHP Parse error:  syntax error, unexpected '{' in E:\server\nginx\html\laravel\app\storage\views\2644c3e2862e6c5e43309186cd128d83 on line 104
+[31-Jul-2014 05:14:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in E:\server\nginx\html\laravel\app\routes.php on line 83
+[31-Jul-2014 05:41:02 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::delete() in E:\server\nginx\html\laravel\app\routes.php on line 94
+[31-Jul-2014 05:55:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in E:\server\nginx\html\laravel\app\routes.php on line 140
+[31-Jul-2014 06:11:28 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::save() in E:\server\nginx\html\laravel\app\routes.php on line 147
+[31-Jul-2014 06:15:04 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Eloquent\Collection::save() in E:\server\nginx\html\laravel\app\routes.php on line 153
+[31-Jul-2014 09:19:54 UTC] PHP Parse error:  syntax error, unexpected '<' in E:\server\nginx\html\laravel\app\storage\views\96f45767d7d526a2b85f957716a7bbcf on line 34
+[31-Jul-2014 09:20:38 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in E:\server\nginx\html\laravel\app\storage\views\96f45767d7d526a2b85f957716a7bbcf on line 34
+[31-Jul-2014 09:21:18 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in E:\server\nginx\html\laravel\app\storage\views\96f45767d7d526a2b85f957716a7bbcf on line 34
+[31-Jul-2014 09:29:34 UTC] PHP Parse error:  syntax error, unexpected end of file in E:\server\nginx\html\laravel\app\routes.php on line 229

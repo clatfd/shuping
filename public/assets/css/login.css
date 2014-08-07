@@ -1,0 +1,37 @@
+#loginheader{
+	font-family: Arial;
+	font-size: 36px;
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	color: #333333;
+	text-align: center;
+	margin-top: 20px;
+}
+.loginsubheader{
+	font-family: Arial;
+	font-size: 26px;
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	color: #333333;
+	text-align: center;
+	margin-top: 20px;
+}
+.input-login{
+	width: 300px;
+	margin: auto auto 20px;
+}
+.login-part-left{
+	text-align: center;
+	line-height: 100px;
+}
+.login-part-right{
+	text-align: center;
+	line-height: 100px;
+	border-left: solid 1px;
+}
+.login-btn{
+	width: 150px;
+	height: 40px;
+}
